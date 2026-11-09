@@ -44,7 +44,6 @@ cd RedditTrendWatch
 
 python reddit_trends.py
 
-Note: The repository must contain "reddit_trends.py" before this installation command can run successfully.
 
 Linux
 
@@ -125,6 +124,8 @@ http://127.0.0.1:8765
 The dashboard runs locally on your device.
 
 Keep Termux or the terminal session running while using the dashboard.
+
+run it from the dashboard(better) or use commands :
 
 2. Collect and analyze trends
 
